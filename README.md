@@ -1,4 +1,4 @@
-# 🪙 TUMA-TrustWallet-Assets
+# TUMA-TrustWallet-Assets
 
 This repository hosts the official **Turbo Manatee (TUMA)** token assets prepared for submission to the **Trust Wallet Assets** repository.
 
