@@ -55,7 +55,17 @@ The purpose of this repository is to maintain a clean, transparent, and version-
 | **TurboManatee_Tokenomics_Distribution.pdf** | Official tokenomics distribution overview |
 | **Whitepaper_v1.1.pdf** | Technical and ecosystem overview |
 
----
+
+### ⚙️ Security & Transparency Notice
+
+The **Blacklist** function of the Turbo Manatee (TUMA) smart contract  
+has been **permanently disabled on-chain** via the `disableBlacklistForever()` transaction.
+
+This mechanism remains in the source code **only for audit transparency**  
+and **cannot be reactivated** by any party, including the contract owner.
+
+**Transaction Proof:** [View on BscScan](https://bscscan.com/tx/0x8ca7708b6ea02736b94531c0d405a8d67942ef09d20f634e3e74b2e83b449efa)  
+**Contract Address:** [0x52d105dF96887f1B69EF93b55A53A12597485D79](https://bscscan.com/address/0x52d105dF96887f1B69EF93b55A53A12597485D79)
 
 ## 🌌 About Turbo Manatee
 
