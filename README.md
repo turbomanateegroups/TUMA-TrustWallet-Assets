@@ -1,92 +1,84 @@
-# Turbo Manatee (TUMA) — Official Trust Wallet Asset Submission Documents
+# Turbo Manatee (TUMA) — TrustWallet Assets
 
-This folder contains the official files for the **Turbo Manatee (TUMA)** token submission to the **Trust Wallet Assets official repository**, used for asset verification, token display, and metadata synchronization.
-
-The purpose of this directory is to maintain a clean, transparent, and version-controlled source, adhering to all materials and documents prepared in accordance with the [Trust Wallet Official Listing Guidelines](https://github.com/trustwallet/assets/tree/master/blockchains/smartchain/assets).
-
----
-
-## 📂 Folder Structure
-
-- **logo.png** → 256×256 pixels, PNG format, transparent background, file size less than 100 KB
-
-- **info.json** → Basic token information (name, codename, website, community links)
-
-- **README.md / README_TW.md** → Official documentation (English/Traditional Chinese)
+This repository contains the official **Turbo Manatee (TUMA)** token asset files required for submission to the **Trust Wallet Assets** repository.  
+All information in this repository is fully aligned with the on-chain data of the TUMA token deployed on BNB Smart Chain (BEP-20).
 
 ---
 
-## 🧾 Basic Token Information
+## 📌 Token Information
 
-| Field | Content |
-
-|------|------|
-
+| Field | Detail |
+|-------|--------|
 | **Name** | Turbo Manatee |
-
-| **Codename** | TUMA |
-
-| **Protocol Type** | BEP20 (Binance Smart Chain) |
-
-| **Decimal Places** | 18 |
-
-| **Contract Address** | [`0xed89776141b1a62adfbf3c243b75600eb2c4b430`](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430) |
-
-| **Total Supply** | 100,000,000 TUMA |
-
-| **Token Status** | Active (Deployed, Verified) |
-
-| **Official Website** | [https://turbomanatee.com](https://turbomanatee.com) |
-
-| **Telegram** | [https://t.me/TurboManatee](https://t.me/TurboManatee) |
-
-| **X (Twitter)** | [https://x.com/TurboManatee](https://x.com/TurboManatee) |
-
-| **Email** | turbomanateegroups@gmail.com |
+| **Symbol** | TUMA |
+| **Type** | BEP20 (BNB Smart Chain) |
+| **Decimals** | 18 |
+| **Contract Address** | `0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430` |
+| **Owner Status** | Renounced (0x0000000000000000000000000000000000000000) |
 
 ---
 
-## 🧩 Trust Wallet Submission Process
+## 🌐 Official Links
 
-1. Fork the official repository → [trustwallet/assets](https://github.com/trustwallet/assets)
-
-2. Create a branch `add-turbomanatee`
-
-3. Copy this folder structure to your local repository
-
-4. Confirm:
-
-- File names are completely correct (case-sensitive)
-
-- Contract address folders use **checksum format**
-
-- Diagrams conform to size and capacity specifications
-
-5. Commit and Push to the remote repository
-
-6. Create a PR (Pull Request) title: **"Add Turbo Manatee (TUMA)"**
-
-7. Pay the review fee and wait for official review response
+- **Website:** https://www.turbomanatee.com/  
+- **Explorer:** https://bscscan.com/token/0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430  
+- **Twitter (X):** https://x.com/Turbo_Manatee  
+- **Telegram:** https://t.me/Turbo_Manatee  
+- **GitHub:** https://github.com/turbomanateegroups  
 
 ---
 
-## ⚙️ Security and Transparency Statement
-This design is only retained in the code to facilitate transparency for third-party audits. The actual functionality has been irreversibly shut down to ensure complete decentralization.
+## 📁 Repository Structure (TrustWallet Required Format)
+
+blockchains/
+└── smartchain/
+└── assets/
+└── 0xed89776141b1a62adfbf3c243b75600eb2c4b430/
+├── info.json
+└── logo.png
+
+### **Requirements**
+- Folder name must be **all lowercase** (contract address).  
+- `logo.png` must be **256×256**, **PNG**, **transparent background**, **≤100 KB**.  
+- `info.json` must follow the official Trust Wallet specification.
 
 ---
 
-## 🌌 About Turbo Manatee
+## 📄 Files Included
 
-**Turbo Manatee (TUMA)** is a community-driven meme token built on the **Binance Smart Chain**, symbolizing speed, power, and community unity, with the "**Turbo Manatee Galaxy**" universe as its core brand.
+### **1. info.json**
+Contains all metadata required by TrustWallet, including:
+- name, symbol, decimals  
+- contract address  
+- website, explorer, and social links  
+- description (English, required)
 
-The project emphasizes **transparency, decentralized development**, and **community governance**. All token configurations and contract operations are publicly verifiable.
-
-> *"Join the Galaxy. Accelerate the Meme Revolution."* 🚀
+### **2. logo.png**
+Official TUMA logo (256×256, optimized for TrustWallet listing).
 
 ---
 
-## Copyright and Licensing
+## ✅ Decentralization Statement
 
-© 2025 Turbo Manatee Team. All Rights Reserved. All files are licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The Turbo Manatee (TUMA) token is fully decentralized.  
+The contract ownership has been **renounced**, ensuring:
+- No minting  
+- No blacklist functions  
+- No pausing functions  
+- No administrative control  
 
-For official listing and community verification purposes only.
+The project is fully community-driven under Web3 principles.
+
+---
+
+## 📨 Contact
+
+For official updates, please refer to:
+- Website: https://www.turbomanatee.com/  
+- Twitter/X: https://x.com/Turbo_Manatee  
+- Telegram: https://t.me/Turbo_Manatee  
+
+---
+
+**Turbo Manatee (TUMA)**  
+_The future of meme-powered community tokens on BNB Smart Chain._
