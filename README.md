@@ -21,59 +21,12 @@ The purpose of this repository is to maintain a clean, transparent, and version-
 | **Symbol** | TUMA |
 | **Type** | BEP20 (Binance Smart Chain) |
 | **Decimals** | 18 |
-| **Contract Address** | `0x52d105dF96887f1B69EF93b55A53A12597485D79` |
+| **Contract Address** | `0xed89776141b1a62adfbf3c243b75600eb2c4b430` |
 | **Total Supply** | 100,000,000 TUMA |
 | **Status** | Active |
 | **Website** | [https://turbomanatee.com](https://turbomanatee.com) |
-| **Explorer** | [View on BscScan](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79) |
+| **Explorer** | [View on BscScan](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430) |
 | **Telegram** | [https://t.me/TurboManatee](https://t.me/TurboManatee) |
 | **Twitter (X)** | [https://x.com/TurboManatee](https://x.com/TurboManatee) |
 | **Email** | turbomanateegroups@gmail.com |
 
----
-
-## 🧩 Submission Guide (for Trust Wallet)
-
-1. Fork the official [trustwallet/assets](https://github.com/trustwallet/assets) repo.  
-2. Create a new branch named `add-turbomanatee`.  
-3. Copy the folder structure above into your local repo.  
-4. Verify that:
-   - File names are correct and case-sensitive.  
-   - The contract address folder is checksum-format.  
-   - The logo meets dimension and size requirements.  
-5. Commit and push your changes.  
-6. Open a Pull Request (PR) titled **“Add Turbo Manatee (TUMA)”**.  
-7. Follow Trust Wallet’s instructions to pay the verification fee and await approval.
-
----
-
-## 🧠 Additional Documentation
-
-| File | Description |
-|------|--------------|
-| **Proof_of_Ownership_TurboManatee.pdf** | Confirms deployer’s ownership of the contract |
-| **TurboManatee_Tokenomics_Distribution.pdf** | Official tokenomics distribution overview |
-| **Whitepaper_v1.1.pdf** | Technical and ecosystem overview |
-
-
-### ⚙️ Security & Transparency Notice
-
-The **Blacklist** function of the Turbo Manatee (TUMA) smart contract  
-has been **permanently disabled on-chain** via the `disableBlacklistForever()` transaction.
-
-This mechanism remains in the source code **only for audit transparency**  
-and **cannot be reactivated** by any party, including the contract owner.
-
-**Transaction Proof:** [View on BscScan](https://bscscan.com/tx/0x8ca7708b6ea02736b94531c0d405a8d67942ef09d20f634e3e74b2e83b449efa)  
-**Contract Address:** [0x52d105dF96887f1B69EF93b55A53A12597485D79](https://bscscan.com/address/0x52d105dF96887f1B69EF93b55A53A12597485D79)
-
-## 🌌 About Turbo Manatee
-
-**Turbo Manatee (TUMA)** is a community-driven meme token built on **Binance Smart Chain**, representing speed, strength, and unity within the **Turbo Manatee Galaxy** ecosystem.  
-The project emphasizes **transparency, decentralized growth**, and **community-driven evolution**.
-
-> *“Join the Galaxy. Accelerate the Meme Revolution.”* 🚀  
-
----
-
-**© 2025 Turbo Manatee Team — All Rights Reserved.**
